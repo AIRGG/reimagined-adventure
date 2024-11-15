@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "first_name": "Lorie",
+      "last_name": "Symms",
+      "email": "lsymms0@go.com",
+      "gender": "Female",
+      "ip_address": "36.102.98.254"
+    },
+    {
+      "id": 2,
+      "first_name": "Clair",
+      "last_name": "Blague",
+      "email": "cblague1@webs.com",
+      "gender": "Female",
+      "ip_address": "232.55.227.138"
+    },
+    {
+      "id": 3,
+      "first_name": "Hinze",
+      "last_name": "Convery",
+      "email": "hconvery2@csmonitor.com",
+      "gender": "Male",
+      "ip_address": "189.30.235.67"
+    },
+    {
+      "id": 4,
+      "first_name": "Sioux",
+      "last_name": "Shorton",
+      "email": "sshorton3@weather.com",
+      "gender": "Female",
+      "ip_address": "51.164.67.183"
+    },
+    {
+      "id": 5,
+      "first_name": "Erda",
+      "last_name": "Poupard",
+      "email": "epoupard4@amazon.co.uk",
+      "gender": "Agender",
+      "ip_address": "197.208.221.72"
+    }
+  ]
